@@ -68,7 +68,6 @@ Popular mining software like XMRig couldn’t compile on the Pi Zero's ARMv6 CPU
 
 | Service         | Purpose                      | Status         |
 |-----------------|------------------------------|----------------|
-| CUPS            | Print sharing                | ✅ Working      |
 | EmulatorJS      | Drag-and-drop retro games    | ✅ Working      |
 | Pi-hole         | DNS-level ad blocker         | ✅ Working      |
 | cpuminer-multi  | Experimental crypto mining   | ✅ Working (slow) |
