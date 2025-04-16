@@ -17,7 +17,9 @@ Using **EmulatorJS**, the Pi serves a single-page emulator portal. Just drag and
 - NES, SNES, GBA, Genesis, Atari, and more
 - Fully browser-based (no installs needed)
 
-<!-- Add screenshot here -->
+<p align="center">
+  <img src="[https://github.com/AdamHayball/MultiBootRescueDrive/blob/main/usbsticks.jpg](https://github.com/AdamHayball/RPi-Zero-1/blob/main/ejs.jpg)" alt="Old USB Sticks" height="200px" width="200px" />
+</p>
 
 ---
 
