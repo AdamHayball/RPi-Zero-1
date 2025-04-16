@@ -9,19 +9,6 @@ This project explores squeezing real-world functionality out of the original Ras
 
 ---
 
-## Network Print Server (CUPS)
-
-Using **CUPS**, the Pi Zero acts as a central print hub, allowing you to share USB-connected printers over your network.
-
-**Supported:**
-- Brother, HP, and Canon printers
-- Windows / macOS / Linux / iOS print jobs
-- IPP and AirPrint compatibility
-
-<!-- Add screenshot here -->
-
----
-
 ## Retro Game Server (EmulatorJS)
 
 Using **EmulatorJS**, the Pi serves a single-page emulator portal. Just drag and drop your ROMs into a web browser and start playing instantly.
