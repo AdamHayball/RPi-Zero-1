@@ -17,9 +17,9 @@ Using **EmulatorJS**, the Pi serves a single-page emulator portal. Just drag and
 - NES, SNES, GBA, Genesis, Atari, and more
 - Fully browser-based (no installs needed)
 
-<p align="center">
-  <img src="https://github.com/AdamHayball/RPi-Zero-1/blob/main/ejs.jpg" alt="emulator frontend" height="200px" width="200px" />
-  <img src="https://github.com/AdamHayball/RPi-Zero-1/blob/main/ejs1.jpg" alt="game picture" height="200px" width="200px" />
+<p align="left">
+  <img src="https://github.com/AdamHayball/RPi-Zero-1/blob/main/ejs.jpg" alt="emulator frontend" height="150px" width="200px" />
+  <img src="https://github.com/AdamHayball/RPi-Zero-1/blob/main/ejs1.jpg" alt="game picture" height="150px" width="200px" />
 </p>
 
 ---
@@ -48,8 +48,8 @@ Popular mining software like XMRig couldn’t compile on the Pi Zero's ARMv6 CPU
 
 > **Note:** This is not profitable. It’s an exercise in pushing low-end hardware to its limits.
 
-<p align="center">
-  <img src="https://github.com/AdamHayball/RPi-Zero-1/blob/main/rpi-mine.jpg" alt="Miner Terminal" height="200px" width="200px" />
+<p align="left">
+  <img src="https://github.com/AdamHayball/RPi-Zero-1/blob/main/rpi-mine.jpg" alt="Miner Terminal" height="150px" width="200px" />
 </p>
 
 ---
